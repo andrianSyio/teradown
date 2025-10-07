@@ -1,0 +1,15 @@
+{
+  "name": "terabox-downloader",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12",
+    "cheerio": "^1.0.0-rc.12",
+    "uuid": "^9.0.0",
+    "serverless-http": "^3.0.0" 
+  }
+}
